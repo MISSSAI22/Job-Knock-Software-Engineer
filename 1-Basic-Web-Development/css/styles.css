@@ -17,3 +17,7 @@ p {
 .save {
   color: red;
 }
+
+.large {
+  font-size: 100px;
+}
